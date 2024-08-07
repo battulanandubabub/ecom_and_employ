@@ -1,0 +1,8 @@
+.footer {
+  background-color: #f8f9fa; /* Light gray background */
+  color: #212529; /* Dark gray text */
+  text-align: center; /* Center the text */
+  padding: 20px; /* Padding around the text */
+  position: relative; /* Allow for proper positioning */
+  width: 100%; /* Full width */
+}
